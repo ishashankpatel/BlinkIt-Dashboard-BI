@@ -39,3 +39,5 @@ Geographical and Store Size Analysis:
 Tier 3 cities lead in sales performance.
 
 Medium-sized stores contribute the highest sales at 42.3% of total sales, followed by small-sized stores at 37%.
+![Screenshot 2024-08-01 151119](https://github.com/user-attachments/assets/f0e26017-16aa-4edb-ae9b-75c8baa8aa45)
+
